@@ -17,6 +17,10 @@ message="${1}"
 # git add pyspark
 
 rm *~
-git add *
+git add *.C
+git add *.cxx
+git add *.sh
+git add macros/*.C
+git add macros/*.h
 git commit -m "${message}"
 git push
