@@ -17,6 +17,7 @@ message="${1}"
 # git add pyspark
 
 rm *~
+git add HZZVBFStats13TeV
 git add *.C
 git add *.cxx
 git add *.sh
