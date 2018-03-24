@@ -21,6 +21,7 @@ git add HZZVBFStats13TeV
 git add *.C
 git add *.cxx
 git add *.sh
+git add *.pdf
 git add macros/*.C
 git add macros/*.h
 git commit -m "${message}"
