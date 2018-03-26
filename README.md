@@ -9,6 +9,6 @@ repository, and the functions they serve:
 
 | File | Function |
 |--------|----------|
-| ```run/run_classification_var_scan.sh``` | Train BDT permutations |
-|```run/run_classification_application_var_scan.sh``` | Apply BDT to testing samples |
+| ```run/run_classification_var_scan.sh``` | Train all BDT permutations using cluster computing grid |
+|```run/run_classification_application_var_scan.sh``` | Apply all BDT permutations to testing samples using cluster computing grid |
 | ```run/sig_scan.sh``` |Find the best significance among 'N' variables from resultant trainings |
