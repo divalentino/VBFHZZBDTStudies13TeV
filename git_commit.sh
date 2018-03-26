@@ -24,5 +24,6 @@ git add *.sh
 git add *.pdf
 git add macros/*.C
 git add macros/*.h
+git add run/*.sh
 git commit -m "${message}"
 git push
