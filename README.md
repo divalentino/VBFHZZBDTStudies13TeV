@@ -4,5 +4,9 @@ Code portfolio demonstrating scripts and code written for the ATLAS multivariate
 
 ## Scripts of note:
 
-* run/run_classification_application_var_scan.sh - Perform all BDT training / applications using cluster computing
-* run/sig_scan.sh - Find the best signal significance among 'N' variables from resultant trainings
+| Script | Function |
+|--------|----------|
+|run/run_classification_application_var_scan.sh | Perform all BDT
+|training / applications using cluster computing |
+| run/sig_scan.sh |Find the best signal significance among 'N'
+|variables from resultant trainings |
