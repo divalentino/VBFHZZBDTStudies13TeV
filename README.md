@@ -9,5 +9,7 @@ repository, and the functions they serve:
 
 | File | Function |
 |--------|----------|
-|```run/run_classification_application_var_scan.sh``` | Perform all BDT training / applications using cluster computing |
-| ```run/sig_scan.sh``` |Find the best signal significance among 'N' variables from resultant trainings |
+| ```run/run_classification_var_scan.sh``` | Perform all BDT trainings
+using cluster computing |
+|```run/run_classification_application_var*scan.sh``` | Apply BDT to testing samples using cluster computing |
+| ```run/sig*scan.sh``` |Find the best signal significance among 'N' variables from resultant trainings |
